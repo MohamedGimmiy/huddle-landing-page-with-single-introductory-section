@@ -1,0 +1,15 @@
+body{
+    background-image: url(../images/bg-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:  hsl(257, 40%, 49%);
+    margin: 20px 100px;
+    background-position: 40px;
+}
+
+.col-md-5.mt-5{
+    color: white;
+}
+.col-md-6.mt-5>button{
+    color: hsl(257, 40%, 49%);
+}
